@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @om4k1
 - 👀 I’m interested in dev
-- 🌱 I’m currently learning PHP/JS
+- 🌱 PHP is dead
